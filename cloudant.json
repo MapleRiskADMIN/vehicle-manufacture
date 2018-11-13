@@ -1,0 +1,20 @@
+{
+    "composer": {
+        "wallet": {
+            "type": "composer-wallet-cloudant",
+            "options": {
+                "apikey": "vHZinO0krDAWz-71QvvHjL2f8mJ-79gsw1obHfM-ke4Q",
+                "host": "310f8adf-5f0c-4d27-bcb6-ac0d2fe4e72d-bluemix.cloudant.com",
+                "iam_apikey_description": "Auto generated apikey during resource-key operation for Instance - crn:v1:bluemix:public:cloudantnosqldb:us-south:a/91576e5400f4474c9e7121dde76bf960:b982e670-bf4d-4f32-806c-8f956403813b::",
+                "iam_apikey_name": "auto-generated-apikey-6833c975-6889-408a-b69a-543b61ed6909",
+                "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+                "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/91576e5400f4474c9e7121dde76bf960::serviceid:ServiceId-8f2665aa-6264-4b91-9788-8ffec0eb1db8",
+                "password": "b950a0c6027fd8850ddce27d7bdd74513d1f8ce91589a906f728df0973341473",
+                "port": 443,
+                "url": "https://310f8adf-5f0c-4d27-bcb6-ac0d2fe4e72d-bluemix:b950a0c6027fd8850ddce27d7bdd74513d1f8ce91589a906f728df0973341473@310f8adf-5f0c-4d27-bcb6-ac0d2fe4e72d-bluemix.cloudant.com",
+                "username": "310f8adf-5f0c-4d27-bcb6-ac0d2fe4e72d-bluemix",
+                "database": "wallet"
+            }
+        }
+    }
+}
